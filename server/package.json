@@ -16,6 +16,9 @@
     "eslint": "^4.19.1",
     "express": "^4.16.3",
     "morgan": "^1.9.0",
-    "nodemon": "^1.17.4"
+    "node-gyp": "^3.6.2",
+    "node-pre-gyp": "^0.10.0",
+    "nodemon": "^1.17.4",
+    "sqlite3": "^4.0.0"
   }
 }
